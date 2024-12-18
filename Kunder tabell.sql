@@ -1,0 +1,5 @@
+SELECT TOP (1000) [KundID]
+      ,[Namn]
+      ,[Epost]
+      ,[Stad]
+  FROM [ECommerceDB].[dbo].[Kunder]
